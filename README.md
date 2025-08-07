@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rene-Goetze/Rene-Goetze/main/DSCN6448.JPG" width="150" alt="Profilbild" />
+  <img src="https://raw.githubusercontent.com/Rene-Goetze/Rene-Goetze/main/DSCN6448.JPG" width="350" alt="Profilbild" />
 </p>
 
 
