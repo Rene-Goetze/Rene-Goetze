@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rene-Goetze/Rene-Goetze/main/DSCN6448.JPG" width="350" style="border: 3px solid black; border-radius: 50px;" alt="Profilbild" />
+  <img src="https://raw.githubusercontent.com/Rene-Goetze/Rene-Goetze/main/DSCN1070.JPG" width="350" style="border: 3px solid black; border-radius: 50px;" alt="Profilbild" />
 </p>
 
 <h3 align="center">
