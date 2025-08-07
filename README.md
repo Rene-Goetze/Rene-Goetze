@@ -4,7 +4,8 @@ Hallo Freunde !
 
 
 <p align="center">
-  <img src="https://github.com/Rene-Goetze.png" width="150" alt="Profilbild" />
+  <img src="https://raw.githubusercontent.com/Rene-Goetze/Rene-Goetze/main/profilbild.png" width="150" alt="Profilbild" />
+
 </p>
 
 
