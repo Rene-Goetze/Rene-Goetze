@@ -1,4 +1,4 @@
-Hallo Freunde !
+
 
 <h1 align="center">Hi 👋, ich bin René</h1>
 
