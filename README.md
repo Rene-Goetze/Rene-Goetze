@@ -11,6 +11,8 @@
   gelernter Koch, Vinyl - Artist, Musiker, Video - Künstler und Software - Entwickler
 </h3>
 
+<br>
+
 
 <div align="center">
 
