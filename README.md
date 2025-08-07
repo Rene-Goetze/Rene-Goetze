@@ -4,7 +4,7 @@ Hallo Freunde !
 
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/DEINE_USER_ID?v=4" width="150" alt="Profilbild" />
+  <img src="https://github.com/deinBenutzername.png" width="150" alt="Profilbild" />
 </p>
 
 
