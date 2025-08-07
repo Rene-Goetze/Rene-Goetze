@@ -15,7 +15,7 @@
 <img src="https://raw.githubusercontent.com/Rene-Goetze/Rene-Goetze/main/output/snake.svg" alt="Snake animation" />
 
 
-###
+
 
 
 
