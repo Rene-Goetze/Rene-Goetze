@@ -12,7 +12,8 @@
 </h3>
 
 
-<img src="https://raw.githubusercontent.com/Rene-Goetze/Rene-Goetze/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Rene-Goetze/Rene-Goetze/main/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
