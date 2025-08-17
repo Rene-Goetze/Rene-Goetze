@@ -7,7 +7,7 @@
   <img src="https://raw.githubusercontent.com/Rene-Goetze/Rene-Goetze/main/DSCN1070.JPG" width="450" style="border: 3px solid black; border-radius: 50px;" alt="Profilbild" />
 </p>
 
-<h3 align="center">
+<h3 align="center" style="color: red;">
   gelernter Koch, Vinyl - Artist, Musiker, Video - Künstler und Software - Entwickler
 </h3>
 
