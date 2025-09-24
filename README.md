@@ -39,7 +39,7 @@
 
 ###
 
-[![YouTube] https://www.youtube.com/@die-drei-typen
+
 
 
 
