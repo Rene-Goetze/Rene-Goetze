@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, ich bin René</h1>
+<h1 align="center">Hi, René hier 👋</h1>
 
 
 <p align="center">
