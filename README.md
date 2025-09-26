@@ -8,7 +8,7 @@
 </p>
 
 <h3 align="center">
-  <font color="red"> Koch, Vinyl - Artist, Musiker, Video - Künstler und Software - Entwickler</font>
+  <font color="red"> Koch, Musiker, Vinyl - Artist, Video - Künstler und Software - Entwickler</font>
 </h3>
 
 <br>
