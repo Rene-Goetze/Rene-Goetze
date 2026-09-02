@@ -9,9 +9,7 @@
        alt="" />
 </p>
 
-<h3 align="center">
-  <font color="red"> Koch, Musiker, Vinyl - Artist, Video - Künstler und Software - Entwickler</font>
-</h3>
+<h3 align="center">Reduktion · Code · Struktur</h3>
 
 <br>
 
