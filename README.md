@@ -11,7 +11,7 @@
 
 <h3 align="center">Reduktion · Code · Struktur</h3>
 
-<br>
+
 
 
 
